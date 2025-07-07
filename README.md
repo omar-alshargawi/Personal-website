@@ -1,4 +1,6 @@
 # Personal-website
+![WhatsApp Image 2025-07-06 at 19 57 53_2afe1a87](https://github.com/user-attachments/assets/6fe729de-8ece-4dd8-bc07-047474808785)
+
 # 👋 Hi, I'm Omar Alshargawi
 
 Welcome to my personal portfolio site!  
