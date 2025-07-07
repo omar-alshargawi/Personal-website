@@ -1,6 +1,5 @@
 # Personal Website
 # 👋 Hi, I'm Omar Alshargawi
-![WhatsApp Image 2025-07-06 at 19 57 53_60a8262c](https://github.com/user-attachments/assets/d66b34a2-4354-49a7-a09d-224537620c37)
 
 Welcome to my personal portfolio site!  
 This is a simple HTML-based page that introduces who I am and links to my professional profiles.
